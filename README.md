@@ -5,7 +5,6 @@ Mass Download Subtitles for your folder of media.<br>
 $ [sudo] apt-get install -y pip<br>
 $ [sudo] apt-get install -y git <br>
 $ [sudo] pip install subliminal<br>
-$ [sudo] apt-get install -y pip<br>
 $ git clone https://github.com/VeggieVampire/batch_subliminal<br>
 $ cd batch_subliminal <br>
 $ chmod 777 * <br>
