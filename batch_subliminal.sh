@@ -35,7 +35,6 @@ for x in `cat found.media`
 echo $x
 
         subliminal download -l en ${x}
-                #"$(du "$My_File1")"
  done
 
 rm -rf found.media2
