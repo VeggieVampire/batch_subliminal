@@ -11,4 +11,4 @@ $ chmod 777 * <br>
 
 
 # run<br>
-./batch_subliminal.sh /home/user/films/<br>
+./batch_subliminal.sh /home/user/media/<br>
